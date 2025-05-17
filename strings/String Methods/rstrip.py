@@ -1,9 +1,6 @@
 # parameter
 # string.rstrip(characters to remove)
 
-x = txt.rstrip(",.qsw")
-
-print(x)
 
 txt = "     banana     "
 
