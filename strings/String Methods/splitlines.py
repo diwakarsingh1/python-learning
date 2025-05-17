@@ -2,7 +2,7 @@
 # string.splitlines(keeplinebreaks)
 
 
-txt = "Thank you for the music\Welcome to the jungle"
+txt = "Thank you for the music\nWelcome to the jungle"
 
 x = txt.splitlines()
 
