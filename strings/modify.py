@@ -1,15 +1,15 @@
 a = "diwakar"
-print(a.upper())    #To Upper
+print(a.upper())    # To Upper
 
 b = "DIWAKAR IS a GOOD BOY."
-print(b.lower())    #To lower
+print(b.lower())    # To lower
 
 c = "  Diwakar Singh   "
 print(c)
-print(c.strip())    #remove space from start and end
+print(c.strip())    # Remove space from start and end
 
 d = "Diwakar Singh Prajapati"
-print(d.replace("D","J"))   #Replace any character
+print(d.replace("D","J"))   # Replace any character
 
 a = "Hello! World"
 print(a.split("!"))
