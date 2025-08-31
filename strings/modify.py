@@ -13,3 +13,8 @@ print(d.replace("D","J"))   #Replace any character
 
 a = "Hello! World"
 print(a.split("!"))
+
+
+f = "apple, banana, orange, pineapple"
+z = f.split(",")
+print(z)
