@@ -8,6 +8,8 @@
 
 # Airthmetic Operator
 
+print("Airthmetic Operator")
+
 print(10 + 5)   # Addition
 print(10-5)     # Subtraction
 print(10*5)     # Multiplication
@@ -18,6 +20,80 @@ print(10//5)    # Floor division
 
 # Assignment Operator
 
+print("Assignment Operator")
+
+x = 5
+print(x)
+
+x = 5
+x += 3
+print(x)
+
+x = 5
+x -= 3
+print(x)
+
+x = 5
+x *= 3
+print(x)
+
+x = 5
+x /= 3
+print(x)
+
+x = 5
+x %= 3
+print(x)
+
+x = 5
+x //= 3
+print(x)
+
+x = 5
+x **= 3
+print(x)
+
 x = 5
 x &= 3
 print(x)
+
+x = 5
+x |= 3
+print(x)
+
+x = 5
+x ^= 3
+print(x)
+
+x = 5
+x >>= 3
+print(x)
+
+x = 5
+x <<= 3
+print(x)
+
+print(x := 3)
+
+# Comparison Operators
+
+print("Comparison Operators")
+
+x = 10
+y = 20
+
+x == y
+x != y
+x > y
+x < y
+x >= y 
+x <= y
+
+# Logical Operators
+
+print("Logical Operators")
+
+x and y
+x or y
+x not y
+
