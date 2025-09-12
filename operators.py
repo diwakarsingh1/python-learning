@@ -95,5 +95,5 @@ print("Logical Operators")
 
 x and y
 x or y
-x not y
+
 
