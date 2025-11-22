@@ -47,3 +47,10 @@ if "free" not in txt:
     print("Yes, 'free' is present.")
 else:
     print("No, its present")
+
+multiLineString = """THis is the end of the \
+python language. Is it? \
+Not at all.""" 
+print(multiLineString)
+
+print(r"C:\Users\tarun\news-channel")  # The "r" make the string as a Raw String.
