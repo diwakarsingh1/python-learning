@@ -18,3 +18,8 @@ print(type(y))
 
 x = input("Enter the number: ")
 print (type(int(x)))
+
+x , y , z = "value1" , "value2" , "value3"
+print(x)
+print(y)
+print(z)
